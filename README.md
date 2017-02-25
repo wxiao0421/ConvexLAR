@@ -17,6 +17,7 @@ Matlab toolbox to calculate least angle regression (LAR) for general convex loss
 
 Citation
 ========
+If you use this toolbox in any way, please cite the following publication.
 ```
 @article{XIAOWUZHOU15ConvexLAR,
 author = {Wei Xiao and Yichao Wu and Hua Zhou},
