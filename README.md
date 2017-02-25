@@ -15,8 +15,9 @@ Matlab toolbox to calculate least angle regression (LAR) for general convex loss
 
   * **graphLASSO.m**: function to compute the ConvexLASSO solution path of *gaussian graphical model*.
 
-Citation
-========
+See the [paper for details](http://amstat.tandfonline.com/doi/abs/10.1080/10618600.2014.962700#.WLG-lBIrJPs)
+
+### Citation
 If you use this toolbox in any way, please cite the following publication.
 ```
 @article{XIAOWUZHOU15ConvexLAR,
@@ -33,8 +34,7 @@ eprint = {http://dx.doi.org/10.1080/10618600.2014.962700}
 }
 ```
 
-Examples
-========
+### Examples
 
   * **Least square case (a simulated data set)**
     ```matlab
@@ -250,6 +250,7 @@ Examples
     |:---:|:---:|   
     |![Image of group convexlar-LAR add-boost](/html/demo_19.png)|![Image of group convexlar-LASSO add-boost](/html/demo_20.png)|
 
-        
+### Contacts
+Wei Xiao <wxiao0421@gmail.com>         
 
 
