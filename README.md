@@ -3,6 +3,7 @@ ConvexLAR
 
 Matlab toolbox to calculate least angle regression (LAR) for general convex loss funtions. It can calculate LAR and LASSO solution paths for various models, including generalized linear model, recurrent event data, panel count data, Ada-boost and gaussian graphical model. Weighted LAR (LASSO) and group LAR (LASSO) are also included.
 
+### What is inside?
   * **convexLAR.m**: fucntion to compute the ConvexLAR (weighted ConvexLAR) solution path of general convex function, including *generalized linear model* (glm), *recurrent event data* (recurrent), *panel count data* (panel) and *Ada-boost* (ada).
 
   * **convexLASSO.m**: function to compute the ConvexLASSO (weighted ConvexLASSO) solution path of general convex function, including *generalized linear model* (glm), *recurrent event data* (recurrent), *panel count data* (panel) and *Ada-boost* (ada).
